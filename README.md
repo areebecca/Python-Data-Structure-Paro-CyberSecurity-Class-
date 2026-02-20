@@ -29,14 +29,12 @@ Tabulation: df = pd.DataFrame(data_team)
 <img width="1760" height="602" alt="Screenshot 2026-02-20 135416" src="https://github.com/user-attachments/assets/e52c94c5-b050-4dbd-8d97-0cd62e639017" />
 <img width="1784" height="561" alt="Screenshot 2026-02-20 135429" src="https://github.com/user-attachments/assets/6657bb43-7e5c-4956-a3ec-98fe85209f07" />
 
-##Key Observations/ Lessons Learned
-
+## Key Observations/ Lessons Learned
 Mutability: Lists and Dictionaries are mutable (can be changed), while Tuples are immutable, making them safer for data that should not be modified.
 Indexing: Python uses zero-based indexing. Using .index() is an efficient way to locate the position of a specific element.
 Data Integrity: The count() method is vital for checking the frequency of occurrences in both Lists and Tuples.
 Scalability: Converting a Dictionary into a pandas DataFrame is a powerful step for transitioning from raw data storage to professional data analysis and reporting.
-
-#LINK TO THE NOTE BOOK
+# LINK TO THE NOTE BOOK
 https://colab.research.google.com/drive/1tDJeMKb7pwxInePIRXLsNeH8PRM6IVyH?usp=sharing
 
 
