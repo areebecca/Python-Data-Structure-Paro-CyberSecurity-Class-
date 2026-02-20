@@ -22,12 +22,13 @@ Retrieval: data_team.keys(), data_team.values(), and data_team.items()
 Update: data_team.update({'Gender': [...], 'Duty Station': [...]})
 Tabulation: df = pd.DataFrame(data_team)
 ## Screenshots of Results
-<img width="1844" height="781" alt="Screenshot 2026-02-20 135304" src="https://github.com/user-attachments/assets/7109e5d4-fb7a-4d4e-a3af-0b72611d8f66" />
+<img width="1844" height="893" alt="Screenshot 2026-02-20 144016" src="https://github.com/user-attachments/assets/af2ef7d2-910b-482f-80b0-2189833b56a6" />
 <img width="1792" height="774" alt="Screenshot 2026-02-20 135328" src="https://github.com/user-attachments/assets/be9ba86e-2712-48b1-b407-5dbd050c5067" />
 <img width="1785" height="800" alt="Screenshot 2026-02-20 135344" src="https://github.com/user-attachments/assets/96faf15e-3cb5-4ce8-adc0-578219cb86e8" />
 <img width="1771" height="593" alt="Screenshot 2026-02-20 135356" src="https://github.com/user-attachments/assets/7a3266f6-ec34-479f-991a-865cf8ffc168" />
 <img width="1760" height="602" alt="Screenshot 2026-02-20 135416" src="https://github.com/user-attachments/assets/e52c94c5-b050-4dbd-8d97-0cd62e639017" />
 <img width="1784" height="561" alt="Screenshot 2026-02-20 135429" src="https://github.com/user-attachments/assets/6657bb43-7e5c-4956-a3ec-98fe85209f07" />
+
 ##Key Observations/ Lessons Learned
 
 Mutability: Lists and Dictionaries are mutable (can be changed), while Tuples are immutable, making them safer for data that should not be modified.
